@@ -1,64 +1,64 @@
 class,feature,weight
-Anxiety,word::com,0.48687482462334836
-Anxiety,word::http www,0.3376287760607579
-Anxiety,word::www,0.24806627679900567
-Anxiety,word::www reddit,0.15819595903446468
-Anxiety,word::reddit com,0.1576142470591329
-Anxiety,word::http,-0.1660879025842996
-Anxiety,word::rt,-0.2711226417355376
-Anxiety,word::http co,-0.5616075773410134
-Anxiety,word::url,-1.4845231045448464
-Bipolar,word::www,0.4669504376656867
-Bipolar,word::http www,0.45937789333164586
-Bipolar,word::http,0.21088865646835292
-Bipolar,word::com,0.1632545169737308
-Bipolar,word::www reddit,0.03386165336674543
-Bipolar,word::reddit com,0.030548573224701545
-Bipolar,word::rt,-0.3870184526340126
-Bipolar,word::http co,-0.7710222817965473
-Bipolar,word::url,-0.9634435669169935
-Depression,word::http co,1.5872683155600114
-Depression,word::http www,1.005488455379597
-Depression,word::www reddit,0.028541018892994374
-Depression,word::http,0.023404165136895222
-Depression,word::reddit com,-0.013256798704077194
-Depression,word::www,-0.18375949850277
-Depression,word::com,-0.24331897118203827
-Depression,word::url,-1.65270947821869
-Depression,word::rt,-2.055051027713444
-Normal,word::url,2.2860791237508113
-Normal,word::http,0.14365401871440553
-Normal,word::www,-0.10863749625573109
-Normal,word::com,-0.21804359069454507
-Normal,word::rt,-0.5691374329247825
-Normal,word::reddit com,-0.7043686378076144
-Normal,word::www reddit,-0.7069363958764875
-Normal,word::http www,-1.011062808731506
-Normal,word::http co,-1.44305018258397
-Personality disorder,word::http www,0.7724408004174733
-Personality disorder,word::www,0.5956004639448148
-Personality disorder,word::http,0.39040721321055355
-Personality disorder,word::www reddit,0.3222862856229871
-Personality disorder,word::reddit com,0.3210898425110447
-Personality disorder,word::com,-0.20903704266410694
-Personality disorder,word::rt,-0.2857364698714182
-Personality disorder,word::http co,-0.6223872922220984
-Personality disorder,word::url,-0.9155089885228183
-Stress,word::http,0.6142086795697856
-Stress,word::url,0.16848115733815947
-Stress,word::com,0.09928488736092353
-Stress,word::www reddit,0.0644392288580402
-Stress,word::reddit com,0.0642020317292618
-Stress,word::www,-0.11704243367428425
-Stress,word::http www,-0.157973802334587
-Stress,word::rt,-0.9690917474940307
-Stress,word::http co,-2.358372838634144
-Suicidal,word::http co,2.985670522889806
-Suicidal,word::rt,1.4556150165701216
-Suicidal,word::reddit com,-0.2530330162149069
-Suicidal,word::www reddit,-0.38566944649419205
-Suicidal,word::www,-0.6167243239210253
-Suicidal,word::http www,-0.6223534025923785
-Suicidal,word::url,-0.8237313844152134
-Suicidal,word::com,-1.0040165265943408
-Suicidal,word::http,-2.264146891967938
+Anxiety,word::com,0.48072248621172065
+Anxiety,word::http www,0.3387998056577851
+Anxiety,word::www,0.246836986035213
+Anxiety,word::www reddit,0.15892133502944508
+Anxiety,word::reddit com,0.1583370908741264
+Anxiety,word::http,-0.16935977764290885
+Anxiety,word::rt,-0.27769273165350045
+Anxiety,word::http co,-0.5696050933289826
+Anxiety,word::url,-1.4886205425385286
+Bipolar,word::www,0.47283008496321105
+Bipolar,word::http www,0.4643693576513594
+Bipolar,word::http,0.2178297077680014
+Bipolar,word::com,0.1648915233077687
+Bipolar,word::www reddit,0.03700908550450547
+Bipolar,word::reddit com,0.03658867697405229
+Bipolar,word::rt,-0.38616405696514733
+Bipolar,word::http co,-0.7707727741431841
+Bipolar,word::url,-0.9694809014651223
+Depression,word::http co,1.5781268308011354
+Depression,word::http www,1.0165535752411021
+Depression,word::www reddit,0.03454434027951969
+Depression,word::http,0.01673730076228455
+Depression,word::reddit com,-0.009697315630070688
+Depression,word::www,-0.18274789477020148
+Depression,word::com,-0.2420940956261153
+Depression,word::url,-1.650698156490218
+Depression,word::rt,-2.058368794016736
+Normal,word::url,2.2901073608346145
+Normal,word::http,0.15301326146586564
+Normal,word::www,-0.1097777060579186
+Normal,word::com,-0.22083594832598943
+Normal,word::rt,-0.5775449815968489
+Normal,word::reddit com,-0.7011837236112343
+Normal,word::www reddit,-0.7037413250208044
+Normal,word::http www,-1.0099424973393172
+Normal,word::http co,-1.4386290538475588
+Personality disorder,word::http www,0.7712538295453362
+Personality disorder,word::www,0.5933571751376606
+Personality disorder,word::http,0.3834412408498729
+Personality disorder,word::www reddit,0.31900152415253547
+Personality disorder,word::reddit com,0.31781823824104266
+Personality disorder,word::com,-0.20689476256386677
+Personality disorder,word::rt,-0.28402678290488803
+Personality disorder,word::http co,-0.6254837584010242
+Personality disorder,word::url,-0.9106813260122228
+Stress,word::http,0.6150022608681431
+Stress,word::url,0.16040264885322508
+Stress,word::com,0.0928147649219445
+Stress,word::www reddit,0.05837323722092775
+Stress,word::reddit com,0.05815832623771719
+Stress,word::www,-0.12028614644579541
+Stress,word::http www,-0.15964885927978437
+Stress,word::rt,-0.969253183506623
+Stress,word::http co,-2.354869996120868
+Suicidal,word::http co,2.9784773964762037
+Suicidal,word::rt,1.46036224083257
+Suicidal,word::reddit com,-0.2469814077309292
+Suicidal,word::www reddit,-0.3787797934530736
+Suicidal,word::www,-0.6123704001456127
+Suicidal,word::http www,-0.6178932394751965
+Suicidal,word::url,-0.8219499927757926
+Suicidal,word::com,-1.0045102929778325
+Suicidal,word::http,-2.271774652117746
