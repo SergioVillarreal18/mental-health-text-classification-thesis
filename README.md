@@ -11,6 +11,7 @@ Year: 2026
 
 ## Repository Contents
 
+- `data_source/`: information about the original Kaggle dataset source. The dataset itself is not redistributed in this repository.
 - `notebook/`: implementation notebook used to reproduce the experiment and exported results.
 - `outputs/`: CSV files exported from the notebook, including cross-validation results, final hold-out results, classification report, confusion matrix, class-level metrics, and lexical feature inspection outputs.
 - `figures/`: PNG figures generated from the notebook and used in the thesis.
