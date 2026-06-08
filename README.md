@@ -23,4 +23,4 @@ The study compares lexical TF-IDF representations and semantic sentence embeddin
 
 ## Reproducibility Note
 
-Some exported files were renamed with shorter descriptive names for clarity in the final thesis evidence folder while preserving their original content.
+Some exported files were renamed with shorter descriptive names for clarity while preserving their original content. The original dataset is not redistributed in this repository and should be downloaded directly from the Kaggle source listed in data_source/.
