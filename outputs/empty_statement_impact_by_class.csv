@@ -1,0 +1,8 @@
+status,total_class_count,empty_count,empty_percentage_within_class
+Personality disorder,1201,124,10.32
+Bipolar,2877,100,3.48
+Stress,2669,82,3.07
+Anxiety,3888,47,1.21
+Normal,16351,8,0.05
+Suicidal,10653,1,0.01
+Depression,15404,0,0.0

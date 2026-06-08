@@ -1,0 +1,141 @@
+class,feature,weight
+Anxiety,word::restless,3.2040684775783426
+Anxiety,word::nervous,2.860200566857722
+Anxiety,word::stressing,2.1175958100695333
+Anxiety,char::estl,1.9701009285170819
+Anxiety,word::rabies,1.8864894864280166
+Anxiety,word::googling,1.7303890973341267
+Anxiety,word::hiv,1.6908469333618066
+Anxiety,word::go doctor,1.6338889782311645
+Anxiety,word::amp x200b,1.6287566642592852
+Anxiety,word::sometimes think,1.6035350977954825
+Anxiety,word::anxiety,1.6017933411763154
+Anxiety,word::counseling,1.5580321463592481
+Anxiety,word::flu,1.5502025986078274
+Anxiety,char:: rest,1.5140453497157231
+Anxiety,char::stl,1.4756794019569524
+Anxiety,word::bothering,1.4580119964173939
+Anxiety,word::depressant,1.4519333078254801
+Anxiety,word::really scared,1.4424405846089752
+Anxiety,word::anxious,1.4415688550101804
+Anxiety,char::s? ,1.405196059974168
+Bipolar,word::bp,3.4151945481290515
+Bipolar,word::hypomanic,3.2628095819937175
+Bipolar,char::mani,2.5131564767619023
+Bipolar,word::hypomania,2.418093740175953
+Bipolar,word::manic,2.275647032708842
+Bipolar,word::latuda,2.2513198303574677
+Bipolar,word::seroquel,2.243326735251794
+Bipolar,word::lithium,2.2230526055445403
+Bipolar,word::stable,1.9520169720951328
+Bipolar,word::cycling,1.898602412910029
+Bipolar,word::lamictal,1.8776938148928892
+Bipolar,char::s? ,1.74729353158123
+Bipolar,word::psychosis,1.7114420532241685
+Bipolar,word::meds,1.6179757931762389
+Bipolar,word::delusion,1.5784945542972317
+Bipolar,word::dosage,1.5375449133483938
+Bipolar,word::illness,1.4415828673928222
+Bipolar,word::guess my,1.4386431064615433
+Bipolar,word::hallucination,1.3974420235846552
+Bipolar,char::olar,1.3901841921904128
+Depression,word::doe,2.76477002793731
+Depression,word::wa,2.310182539696287
+Depression,char::iety ,2.252809775775184
+Depression,word::depression,2.1477581022144
+Depression,word::tw,2.104052069259788
+Depression,char::ety ,1.9207682260457764
+Depression,word::someone tell,1.8969934318445458
+Depression,word::since wa,1.8793472051502034
+Depression,word::feel stupid,1.8589784390260269
+Depression,word::affecting,1.853477569605539
+Depression,word::numbness,1.8481259738833045
+Depression,word::longest,1.8330695044899317
+Depression,word::silence,1.6691512237688069
+Depression,word::depressive disorder,1.6326518625451563
+Depression,word::earn,1.6307002024711843
+Depression,word::feeling not,1.6284877692128084
+Depression,word::year later,1.61593171446536
+Depression,word::feel numb,1.589288344060821
+Depression,word::http co,1.5872683155600114
+Depression,word::wa my,1.5836614784890652
+Normal,word::met,2.714853210547587
+Normal,word::ptsd,2.3736220387509674
+Normal,word::anxiety depression,2.2941460651167143
+Normal,word::url,2.2860791237508113
+Normal,word::supportive,1.7925776916859841
+Normal,word::my symptom,1.6951791301467525
+Normal,word::like myself,1.6822249607135173
+Normal,char::rl ,1.6622397513239997
+Normal,word::anything like,1.6591391114241258
+Normal,word::quot,1.6009189694193338
+Normal,char::'s ,1.5965486019678983
+Normal,word::talk my,1.5947888061497864
+Normal,word::seek,1.5921847746456186
+Normal,word::occasion,1.580471428707582
+Normal,char::eet,1.5700246899484946
+Normal,word::older,1.5658435650714715
+Normal,word::benefit,1.5131495557538035
+Normal,word::fresh,1.485660276466949
+Normal,word::offered,1.4773619954681216
+Normal,word::site,1.4690040065831582
+Personality disorder,word::avpd,7.829597122319645
+Personality disorder,char:: av,2.4793122315521074
+Personality disorder,word::avoidant,2.4325975060152643
+Personality disorder,char::s? ,1.533401120845891
+Personality disorder,word::poll,1.4965397992842366
+Personality disorder,word::see myself,1.3239068468972452
+Personality disorder,char::oid,1.3156980586266795
+Personality disorder,char::avo,1.3107458706002386
+Personality disorder,word::addicted,1.2999856441688546
+Personality disorder,word::otherwise,1.2601194217018883
+Personality disorder,word::pretend,1.243846610083294
+Personality disorder,word::degree,1.2217874327969795
+Personality disorder,word::cannot anything,1.193770442861111
+Personality disorder,char::e. ,1.1876141957175002
+Personality disorder,word::anyone feel,1.1747953243365765
+Personality disorder,word::going well,1.1616352823109246
+Personality disorder,word::belong,1.1603483683660032
+Personality disorder,char::void,1.1543382938471214
+Personality disorder,word::shame,1.1532609952846415
+Personality disorder,word::rejected,1.1459727751480682
+Stress,word::tl dr,2.5171093370837454
+Stress,word::ptsd,2.1475492990056777
+Stress,word::keep telling,1.995007931990688
+Stress,word::chronic,1.9379639693921382
+Stress,char::stres,1.8755824482834402
+Stress,word::since my,1.8678040003922096
+Stress,word::stress,1.8521362334075369
+Stress,word::anxiety depression,1.8177554248469443
+Stress,word::anxiety disorder,1.7723354871596222
+Stress,word::deal it,1.6853728567793398
+Stress,word::not alone,1.59630312643008
+Stress,char::tress,1.4864670320270286
+Stress,char::tres,1.4775330456729474
+Stress,word::sobbing,1.445758129710797
+Stress,word::unstable,1.4441891793646953
+Stress,word::not time,1.4159056363720972
+Stress,word::manipulative,1.3901439062893433
+Stress,word::depression my,1.381581241214959
+Stress,word::violent,1.3787985091176835
+Stress,word::depression anxiety,1.3775180789120713
+Suicidal,word::http co,2.985670522889806
+Suicidal,word::feeling suicidal,2.2190125870163655
+Suicidal,word::broke me,2.0968764023647455
+Suicidal,word::go it,2.061800124426663
+Suicidal,word::goodbye,1.9332612969907474
+Suicidal,word::not seem,1.9062612226619131
+Suicidal,word::gun,1.8658793887696978
+Suicidal,word::od,1.8657198877402348
+Suicidal,word::note,1.855897095438106
+Suicidal,word::not it,1.845325324233705
+Suicidal,word::killing myself,1.8299026097906046
+Suicidal,word::enjoy life,1.7199598493240889
+Suicidal,word::ruined,1.7084299582661677
+Suicidal,char:: sl,1.6616713111007353
+Suicidal,word::hang myself,1.6292497228541132
+Suicidal,char::onl,1.6225676909834088
+Suicidal,word::no hope,1.6208959754453292
+Suicidal,word::not expect,1.5180993132941296
+Suicidal,word::cannot live,1.515293125127011
+Suicidal,word::unwanted,1.5122966669033318

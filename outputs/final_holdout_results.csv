@@ -1,0 +1,2 @@
+best_model,accuracy,macro_f1,weighted_f1
+TF-IDF (word + char) + Linear SVM,0.7664420613077726,0.726448631015068,0.763740452752881

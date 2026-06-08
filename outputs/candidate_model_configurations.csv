@@ -1,0 +1,8 @@
+branch,representation,classifier
+Lexical,TF-IDF,Logistic Regression
+Lexical,TF-IDF,Multinomial Naive Bayes
+Lexical,TF-IDF,Random Forest
+Lexical,TF-IDF word + character,Linear SVM
+Semantic,Sentence embeddings,Logistic Regression
+Semantic,Sentence embeddings,Random Forest
+Semantic,Sentence embeddings,Linear SVM
